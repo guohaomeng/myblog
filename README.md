@@ -1,0 +1,2 @@
+# myblog
+a stastic blog
